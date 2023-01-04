@@ -11,3 +11,5 @@ ctrl+shift+/ 多行注释
 ctrl+alt+l 格式化（代码规范）
 
 ctrl+alt+v 自动生成表达式
+
+F4/ctrl+h 可以快捷打开继承树
