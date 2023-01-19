@@ -69,6 +69,10 @@ java执行至少需要一个类
 
 ## idea的使用
 
+### 创建model
+
+File->new->model->next->contentroot中的名字修改
+
 File -> new -> project -java
 
 生成.idea与src文件
